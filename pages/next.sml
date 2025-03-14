@@ -16,7 +16,7 @@ Page {
         Row {
             
             Spacer {amount: 8}
-            Button {label: "Gift >" link: "page:present" weight: 1}
+            Button {label: "Next >" link: "page:present" weight: 1}
         }
     }
 }
