@@ -1,0 +1,21 @@
+Page {
+	title: "Crowdfund to Take the System Down"
+	padding: "8"
+	
+	Column {
+		padding: "8"
+		Image { src: "door.png" }
+
+		Spacer {amount: 16}
+		Markdown {
+			part: "home.md"
+		}
+		Spacer { weight: 1}
+		
+		Row {
+			
+			Spacer {amount: 8}
+			Button {label: "Next >" link: "page:next" weight: 1}
+		}
+	}
+}
