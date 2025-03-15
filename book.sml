@@ -11,10 +11,13 @@ Ebook {
         src: "home.md"
     }
     Part {
-        src: "present.md"
+        src: "gift.md"
     }
     Part {
         src: "whatswrong.md"
+    }
+    Part {
+        src: "now.md"
     }
 }
 

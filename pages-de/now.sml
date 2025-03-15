@@ -1,20 +1,20 @@
 Page {
-    title: "Whats Wrong"
+    title: "Now"
     padding: "8"
     scrollable: "true"
     
     Column {
         padding: "8"
-
-        //Image { src: "magic_book.png" }
+        //Image { src: "happy.png" }
 
         Spacer {amount: 16}
         Markdown {
-            part: "whatswrong.md"
+            part: "now.md"
         }
-        Spacer {amount: 8}
+        Spacer { weight: 1}
+        
         Row {
-            Button {label: "< Gift" link: "page:present" weight: 1}
+            Button {label: "< What's Wrong" link: "page:whatswrong" weight: 1}
             Spacer {amount: 8}
             Button {label: "Todo >" link: "page:home" weight: 1}
         }
