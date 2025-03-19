@@ -1,6 +1,6 @@
 # Crowdfund to Take the System Down
 
-## Maria’s Vision
+## Her Vision
 
 I met her in **Barcelona**, in **Parc de la Ciutadella**.
 She told me she came from **Australia** and had been living in the park for many, many years.
@@ -9,7 +9,7 @@ When she was younger, she used to work there—blowing bubbles for children, mak
 Now, she doesn’t do that anymore.
 
 She **always finds something to eat** in the trash bins.
-Her name is **Maria**. And she is **free**.
+She is **free**.
 
 ### Homeless or Free?
 
@@ -28,9 +28,9 @@ A few weeks earlier, I had slept on the ground in **Genoa**, surrounded by **wil
 They were harmless.
 Not like they told us in school.
 
-### Maria’s Idea
+### Her Idea
 
-One night, **Maria and I** were drinking a few beers.
+One night, **She and I** were drinking a few beers.
 
 I told her about my past—about working for the **banksters in Zurich** as a software developer.
 I told her that I have a **company** trying to fund projects with crowdfunding.
