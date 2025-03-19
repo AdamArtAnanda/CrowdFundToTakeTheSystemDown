@@ -17,4 +17,4 @@ Braunsdorfer Str. 22
 06886 Lutherstadt Wittenberg  
 Germany
 
-📧 Email: japp.olaf@gmail.com  
+📧 Email: [japp.olaf@gmail.com](mailto:japp.olaf@gmail.com)  

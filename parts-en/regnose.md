@@ -151,3 +151,9 @@ The DAO revolution starts now.
 It starts with **you.**  
 
 🚀 **Join us – and be part of the future.**  
+
+💡 Be among the first to make this vision a reality!  
+👉 On this [website](https://crowdware.info/projects/), we will soon launch the first crowdfunding projects to build the new economy.  
+
+Now is the time to act.  
+Are you in?  

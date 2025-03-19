@@ -11,7 +11,7 @@ Es geht darum, **gemeinsam eine neue Welt zu erschaffen.**
 
 Aber falls du trotzdem wissen willst, **wer ich bin**,  
 falls du erfahren möchtest, **wie ich hierhergekommen bin**,  
-dann findest du die Antworten in meinen anderen Büchern.  
+dann findest du die Antworten in meinen anderen [Büchern](https://books.crowdware.at/index_de.html).  
 
 Die eigentliche Frage ist nicht, **wer ich bin.**  
 Die eigentliche Frage ist, **wer du sein wirst.**  

@@ -150,4 +150,10 @@ Sondern **durch die nächste Entscheidung, die du triffst.**
 Die DAO-Revolution beginnt jetzt.  
 Sie beginnt mit **dir.**  
 
-🚀 **Komm dazu – und sei ein Teil der Zukunft.**  
+🚀 **Komm dazu – und sei ein Teil der Zukunft.** 
+
+💡 Sei einer der Ersten, die diese Vision zur Realität machen!  
+👉 Auf dieser [Webseite](https://crowdware.info/projects/) werden wir bald die ersten Crowdfunding-Projekte starten, um die neue Wirtschaft aufzubauen.  
+
+Jetzt ist die Zeit zu handeln.  
+Bist du dabei?  
