@@ -4,11 +4,14 @@ Ebook {
     version: "1.0"
     theme: "Epub3"
     creator: "Adam Art Ananda"
-    language: "en"
+    language: "de,en"
     deployDirEpub: "/Users/Art/Ebooks/CrowdFundToTakeTheSystemDown"
     
     Part {
         src: "home.md"
+    }
+    Part {
+        src: "vision.md"
     }
     Part {
         src: "gift.md"
@@ -17,7 +20,28 @@ Ebook {
         src: "whatswrong.md"
     }
     Part {
-        src: "now.md"
+        src: "howto.md"
+    }
+    Part {
+        src: "police.md"
+    }
+    Part {
+        src: "hero.md"
+    }
+    Part {
+        src: "regnose.md"
+    }
+    Part {
+        src: "act.md"
+    }
+    Part {
+        src: "dao.md"
+    }
+    Part {
+        src: "housing.md"
+    }
+    Part {
+        src: "about.md"
     }
 }
 
