@@ -1,6 +1,6 @@
 Ebook {
     smlVersion: "1.1"
-    name: "CrowdFund to Take the System Down"
+    name: "CrowdFundToTakeTheSystemDown"
     version: "1.0"
     theme: "Epub3"
     creator: "Adam Art Ananda"
@@ -11,10 +11,10 @@ Ebook {
         src: "home.md"
     }
     Part {
-        src: "vision.md"
+        src: "gift.md"
     }
     Part {
-        src: "gift.md"
+        src: "vision.md"
     }
     Part {
         src: "whatswrong.md"

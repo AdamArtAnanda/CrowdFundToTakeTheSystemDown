@@ -1,3 +1,4 @@
+![happy people](happy.png)
 # Regnose – Willkommen in der neuen Welt  
 
 Es ist das Jahr 2035.  

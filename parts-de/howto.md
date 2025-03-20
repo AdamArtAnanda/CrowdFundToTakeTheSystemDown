@@ -1,3 +1,4 @@
+![trap](trap.png)
 # Der Weg in die Freiheit – Wie wir aus der Falle aussteigen  
 
 ## Der große Betrug: Schulden, die nicht existieren  

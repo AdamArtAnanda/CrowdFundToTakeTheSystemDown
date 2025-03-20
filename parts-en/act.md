@@ -1,3 +1,4 @@
+![reading](reading.png)
 # From Reading to Action – Together We Build the New Economy  
 
 Books are powerful.  

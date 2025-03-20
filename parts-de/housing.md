@@ -1,3 +1,4 @@
+![loghouse](loghouse.png)
 # Das Wohnraum-DAO – Freies Wohnen ohne Miete und Bürokratie  
 
 Wohnraum ist eines der größten Abhängigkeitsfaktoren im aktuellen System.  

@@ -1,3 +1,4 @@
+![obdachlos](homeless.png)
 ## Ihre Vision
 
 Ich traf sie in **Barcelona**, im **Parc de la Ciutadella**.
