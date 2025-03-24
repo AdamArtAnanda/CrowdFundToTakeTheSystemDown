@@ -7,5 +7,4 @@
 > 🌍 Ohne Konzerne. Ohne Regierung. Ohne Ausbeutung.  
 > 🤝 Mit Klarheit, Konsens und echter Verbindung.  
 >
-
 > 👉 Sei Teil der Bewegung: [crowdware.info/projects](https://crowdware.info/projects)
