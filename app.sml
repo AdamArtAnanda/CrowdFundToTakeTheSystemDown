@@ -39,7 +39,19 @@ App {
     }
 // deployment start - don't edit here
 Deployment {
-
+  File { path: "howto.sml" time: "2025.03.24 20.25.21" type: "page-en" }
+  File { path: "about.sml" time: "2025.03.24 19.15.53" type: "page-en" }
+  File { path: "housing.sml" time: "2025.03.24 19.14.43" type: "page-en" }
+  File { path: "police.sml" time: "2025.03.24 19.19.52" type: "page-en" }
+  File { path: "now.sml" time: "2025.03.15 06.31.33" type: "page-en" }
+  File { path: "regnose.sml" time: "2025.03.24 19.21.11" type: "page-en" }
+  File { path: "gift.sml" time: "2025.03.24 20.27.22" type: "page-en" }
+  File { path: "act.sml" time: "2025.03.24 19.12.15" type: "page-en" }
+  File { path: "whatswrong.sml" time: "2025.03.24 19.06.40" type: "page-en" }
+  File { path: "home.sml" time: "2025.03.15 06.22.38" type: "page-en" }
+  File { path: "dao.sml" time: "2025.03.24 19.13.24" type: "page-en" }
+  File { path: "vision.sml" time: "2025.03.24 20.27.57" type: "page-en" }
+  File { path: "hero.sml" time: "2025.03.24 20.25.28" type: "page-en" }
   File { path: "howto.sml" time: "2025.03.24 20.02.30" type: "page-de" }
   File { path: "about.sml" time: "2025.03.24 20.05.30" type: "page-de" }
   File { path: "housing.sml" time: "2025.03.24 20.05.23" type: "page-de" }
@@ -56,20 +68,19 @@ Deployment {
 
 
 
-  File { path: "howto.sml" time: "2025.03.24 20.25.21" type: "page-eo" }
-  File { path: "about.sml" time: "2025.03.24 19.15.53" type: "page-eo" }
-  File { path: "housing.sml" time: "2025.03.24 19.14.43" type: "page-eo" }
-  File { path: "police.sml" time: "2025.03.24 19.19.52" type: "page-eo" }
-  File { path: "now.sml" time: "2025.03.15 06.31.33" type: "page-eo" }
-  File { path: "regnose.sml" time: "2025.03.24 19.21.11" type: "page-eo" }
-  File { path: "gift.sml" time: "2025.03.24 20.27.22" type: "page-eo" }
-  File { path: "act.sml" time: "2025.03.24 19.12.15" type: "page-eo" }
-  File { path: "whatswrong.sml" time: "2025.03.24 19.06.40" type: "page-eo" }
-  File { path: "home.sml" time: "2025.03.15 06.22.38" type: "page-eo" }
-  File { path: "dao.sml" time: "2025.03.24 19.13.24" type: "page-eo" }
-  File { path: "vision.sml" time: "2025.03.24 20.27.57" type: "page-eo" }
-  File { path: "hero.sml" time: "2025.03.24 20.25.28" type: "page-eo" }
 
+  File { path: "gift.md" time: "2025.03.14 10.56.45" type: "part-en" }
+  File { path: "regnose.md" time: "2025.03.19 21.35.00" type: "part-en" }
+  File { path: "act.md" time: "2025.03.19 21.56.19" type: "part-en" }
+  File { path: "howto.md" time: "2025.03.19 22.13.07" type: "part-en" }
+  File { path: "hero.md" time: "2025.03.19 22.02.06" type: "part-en" }
+  File { path: "dao.md" time: "2025.03.19 22.00.24" type: "part-en" }
+  File { path: "whatswrong.md" time: "2025.03.19 21.35.32" type: "part-en" }
+  File { path: "home.md" time: "2025.03.19 21.15.17" type: "part-en" }
+  File { path: "housing.md" time: "2025.03.19 22.09.48" type: "part-en" }
+  File { path: "vision.md" time: "2025.03.19 21.43.50" type: "part-en" }
+  File { path: "police.md" time: "2025.03.19 21.50.27" type: "part-en" }
+  File { path: "about.md" time: "2025.03.19 21.14.24" type: "part-en" }
   File { path: "gift.md" time: "2025.03.19 14.57.53" type: "part-de" }
   File { path: "regnose.md" time: "2025.03.19 21.32.03" type: "part-de" }
   File { path: "act.md" time: "2025.03.19 21.56.32" type: "part-de" }
@@ -85,18 +96,7 @@ Deployment {
 
 
 
-  File { path: "gift.md" time: "2025.03.14 10.56.45" type: "part-eo" }
-  File { path: "regnose.md" time: "2025.03.19 21.35.00" type: "part-eo" }
-  File { path: "act.md" time: "2025.03.19 21.56.19" type: "part-eo" }
-  File { path: "howto.md" time: "2025.03.19 22.13.07" type: "part-eo" }
-  File { path: "hero.md" time: "2025.03.19 22.02.06" type: "part-eo" }
-  File { path: "dao.md" time: "2025.03.19 22.00.24" type: "part-eo" }
-  File { path: "whatswrong.md" time: "2025.03.19 21.35.32" type: "part-eo" }
-  File { path: "home.md" time: "2025.03.19 21.15.17" type: "part-eo" }
-  File { path: "housing.md" time: "2025.03.19 22.09.48" type: "part-eo" }
-  File { path: "vision.md" time: "2025.03.19 21.43.50" type: "part-eo" }
-  File { path: "police.md" time: "2025.03.19 21.50.27" type: "part-eo" }
-  File { path: "about.md" time: "2025.03.19 21.14.24" type: "part-eo" }
+
   File { path: "happy.png" time: "2025.03.14 11.53.17" type: "image" }
   File { path: "dao.png" time: "2025.03.19 21.59.42" type: "image" }
   File { path: "cover-en.png" time: "2025.03.19 21.07.07" type: "image" }
