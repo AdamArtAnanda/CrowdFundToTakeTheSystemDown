@@ -1,22 +1,22 @@
 Page {
-    title: "Present"
+    title: "How To"
     padding: "8"
     scrollable: "true"
     
     Column {
         padding: "8"
 
-        Image { src: "magic_book.png" }
+        Image { src: "trap.png" }
 
         Spacer {amount: 16}
         Markdown {
-            part: "present.md"
+            part: "howto.md"
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Home" link: "page:home" weight: 1}
+            Button {label: "< Whats wrong" link: "page:whatswrong" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Vision >" link: "page:vision" weight: 1}
+            Button {label: "Police >" link: "page:police" weight: 1}
         }
     }
 }

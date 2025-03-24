@@ -1,22 +1,22 @@
 Page {
-    title: "Present"
+    title: "Housing"
     padding: "8"
     scrollable: "true"
     
     Column {
         padding: "8"
 
-        Image { src: "magic_book.png" }
+        Image { src: "loghouse.png" }
 
         Spacer {amount: 16}
         Markdown {
-            part: "present.md"
+            part: "housing.md"
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Home" link: "page:home" weight: 1}
+            Button {label: "< DAO" link: "page:dao" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Vision >" link: "page:vision" weight: 1}
+            Button {label: "About >" link: "page:about" weight: 1}
         }
     }
 }

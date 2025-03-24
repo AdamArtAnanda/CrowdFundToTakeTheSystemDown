@@ -6,11 +6,11 @@ Page {
     Column {
         padding: "8"
 
-        Image { src: "magic_book.png" }
+        Image { src: "homeless.png" }
 
         Spacer {amount: 16}
         Markdown {
-            part: "present.md"
+            part: "vison.md"
         }
         Spacer {amount: 8}
         Row {

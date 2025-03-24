@@ -39,7 +39,47 @@ App {
 	}
 // deployment start - don't edit here
 Deployment {
-File { path: "happy.png" time: "2025.03.14 11.53.17" type: "image" }
+  File { path: "now.sml" time: "2025.03.15 06.31.33" type: "page-en" }
+  File { path: "gift.sml" time: "2025.03.14 15.41.40" type: "page-en" }
+  File { path: "whatswrong.sml" time: "2025.03.15 06.22.47" type: "page-en" }
+  File { path: "home.sml" time: "2025.03.15 06.22.38" type: "page-en" }
+  File { path: "now.sml" time: "2025.03.15 06.33.30" type: "page-de" }
+  File { path: "gift.sml" time: "2025.03.15 06.33.30" type: "page-de" }
+  File { path: "whatswrong.sml" time: "2025.03.15 06.42.26" type: "page-de" }
+  File { path: "home.sml" time: "2025.03.15 06.33.30" type: "page-de" }
+
+
+
+
+  File { path: "gift.md" time: "2025.03.14 10.56.45" type: "part-en" }
+  File { path: "regnose.md" time: "2025.03.19 21.35.00" type: "part-en" }
+  File { path: "act.md" time: "2025.03.19 21.56.19" type: "part-en" }
+  File { path: "howto.md" time: "2025.03.19 22.13.07" type: "part-en" }
+  File { path: "hero.md" time: "2025.03.19 22.02.06" type: "part-en" }
+  File { path: "dao.md" time: "2025.03.19 22.00.24" type: "part-en" }
+  File { path: "whatswrong.md" time: "2025.03.19 21.35.32" type: "part-en" }
+  File { path: "home.md" time: "2025.03.19 21.15.17" type: "part-en" }
+  File { path: "housing.md" time: "2025.03.19 22.09.48" type: "part-en" }
+  File { path: "vision.md" time: "2025.03.19 21.43.50" type: "part-en" }
+  File { path: "police.md" time: "2025.03.19 21.50.27" type: "part-en" }
+  File { path: "about.md" time: "2025.03.19 21.14.24" type: "part-en" }
+  File { path: "gift.md" time: "2025.03.19 14.57.53" type: "part-de" }
+  File { path: "regnose.md" time: "2025.03.19 21.32.03" type: "part-de" }
+  File { path: "act.md" time: "2025.03.19 21.56.32" type: "part-de" }
+  File { path: "howto.md" time: "2025.03.19 22.13.24" type: "part-de" }
+  File { path: "hero.md" time: "2025.03.19 22.14.17" type: "part-de" }
+  File { path: "dao.md" time: "2025.03.19 22.00.11" type: "part-de" }
+  File { path: "whatswrong.md" time: "2025.03.19 21.35.45" type: "part-de" }
+  File { path: "home.md" time: "2025.03.19 21.15.01" type: "part-de" }
+  File { path: "housing.md" time: "2025.03.19 22.09.30" type: "part-de" }
+  File { path: "vision.md" time: "2025.03.19 21.44.07" type: "part-de" }
+  File { path: "police.md" time: "2025.03.19 21.50.09" type: "part-de" }
+  File { path: "about.md" time: "2025.03.19 21.13.55" type: "part-de" }
+
+
+
+
+  File { path: "happy.png" time: "2025.03.14 11.53.17" type: "image" }
   File { path: "dao.png" time: "2025.03.19 21.59.42" type: "image" }
   File { path: "cover-en.png" time: "2025.03.19 21.07.07" type: "image" }
   File { path: "magic_book.png" time: "2024.11.27 21.39.33" type: "image" }
@@ -52,6 +92,10 @@ File { path: "happy.png" time: "2025.03.14 11.53.17" type: "image" }
   File { path: "reading.png" time: "2025.03.19 21.55.38" type: "image" }
   File { path: "obdachlos.png" time: "2025.03.19 21.39.34" type: "image" }
   File { path: "cover-de.png" time: "2025.03.19 21.06.21" type: "image" }
+
+
+
+
 }
 // deployment end
 }

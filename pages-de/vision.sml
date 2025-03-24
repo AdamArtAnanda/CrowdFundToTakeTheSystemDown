@@ -6,17 +6,17 @@ Page {
     Column {
         padding: "8"
 
-        Image { src: "magic_book.png" }
+        Image { src: "homeless.png" }
 
         Spacer {amount: 16}
         Markdown {
-            part: "present.md"
+            part: "vison.md"
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Home" link: "page:home" weight: 1}
+            Button {label: "< Gift" link: "page:gift" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Vision >" link: "page:vision" weight: 1}
+            Button {label: "Whats wrong >" link: "page:whatswrong" weight: 1}
         }
     }
 }

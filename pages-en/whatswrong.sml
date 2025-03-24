@@ -6,7 +6,7 @@ Page {
     Column {
         padding: "8"
 
-        //Image { src: "magic_book.png" }
+        Image { src: "capitalism.png" }
 
         Spacer {amount: 16}
         Markdown {
@@ -14,9 +14,9 @@ Page {
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Gift" link: "page:gift" weight: 1}
+            Button {label: "< Vision" link: "page:vision" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Todo >" link: "page:home" weight: 1}
+            Button {label: "Howto >" link: "page:howto" weight: 1}
         }
     }
 }
