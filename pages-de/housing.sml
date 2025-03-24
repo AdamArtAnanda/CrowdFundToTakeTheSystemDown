@@ -16,7 +16,7 @@ Page {
         Row {
             Button {label: "< DAO" link: "page:dao" weight: 1}
             Spacer {amount: 8}
-            Button {label: "About >" link: "page:about" weight: 1}
+            Button {label: "Über >" link: "page:about" weight: 1}
         }
     }
 }

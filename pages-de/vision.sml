@@ -10,13 +10,13 @@ Page {
 
         Spacer {amount: 16}
         Markdown {
-            part: "vison.md"
+            part: "vision.md"
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Gift" link: "page:gift" weight: 1}
+            Button {label: "< Geschenk" link: "page:gift" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Whats wrong >" link: "page:whatswrong" weight: 1}
+            Button {label: "Was ist los? >" link: "page:whatswrong" weight: 1}
         }
     }
 }

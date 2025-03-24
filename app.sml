@@ -1,52 +1,70 @@
 App {
-	smlVersion: "1.0"
-	name: "CrowdFund to Take the System Down"
-	description: "todo"
-	id: "at.crowdware.crowdfundsystemdown"
-	icon: "icon.png"
-	deployDirHtml: "/Users/art/Ebooks/CrowdFundToTakeTheSystemDown/docs/"
+    smlVersion: "1.0"
+    name: "CrowdFund to Take the System Down"
+    description: "todo"
+    id: "at.crowdware.crowdfundsystemdown"
+    icon: "icon.png"
+    deployDirHtml: "/Users/art/Ebooks/CrowdFundToTakeTheSystemDown/docs/"
 
-	Theme {
-		primary: "#FFB951"
-		onPrimary: "#452B00"
-		primaryContainer: ""
-		onPrimaryContainer: "#FFB4AB"
-		secondary: "#FFB4AB"
-		onSecondary: "#3E2D16"
-		secondaryContainer: ""
-		onSecondaryContainer: "#FFB4AB"
-		tertiary: "#B8CEA1"
-		onTertiary: "#243515"
-		tertiaryContainer: "#3A4C2A"
-		onTertiaryContainer: "#D4EABB"
-		error: "#FFB4AB"
-		errorContainer: "#93000A"
-		onError: "#690005"
-		onErrorContainer: "#FFDAD6"
-		background: "#1F1B16"
-		onBackground: "#EAE1D9"
-		surface: "#1F1B16"
-		onSurface: "#EAE1D9"
-		surfaceVariant: "#4F4539"
-		onSurfaceVariant: "#D3C4B4"
-		outline: "#9C8F80"
-		inverseOnSurface: "#1F1B16"
-		inverseSurface: "#EAE1D9"
-		inversePrimary: "#825500"
-		surfaceTint: "#FFB4AB"
-		outlineVariant: "#4F4539"
-		scrim: "#000000"
-	}
+    Theme {
+        primary: "#FFB951"
+        onPrimary: "#452B00"
+        primaryContainer: ""
+        onPrimaryContainer: "#FFB4AB"
+        secondary: "#FFB4AB"
+        onSecondary: "#3E2D16"
+        secondaryContainer: ""
+        onSecondaryContainer: "#FFB4AB"
+        tertiary: "#B8CEA1"
+        onTertiary: "#243515"
+        tertiaryContainer: "#3A4C2A"
+        onTertiaryContainer: "#D4EABB"
+        error: "#FFB4AB"
+        errorContainer: "#93000A"
+        onError: "#690005"
+        onErrorContainer: "#FFDAD6"
+        background: "#1F1B16"
+        onBackground: "#EAE1D9"
+        surface: "#1F1B16"
+        onSurface: "#EAE1D9"
+        surfaceVariant: "#4F4539"
+        onSurfaceVariant: "#D3C4B4"
+        outline: "#9C8F80"
+        inverseOnSurface: "#1F1B16"
+        inverseSurface: "#EAE1D9"
+        inversePrimary: "#825500"
+        surfaceTint: "#FFB4AB"
+        outlineVariant: "#4F4539"
+        scrim: "#000000"
+    }
 // deployment start - don't edit here
 Deployment {
+  File { path: "howto.sml" time: "2025.03.24 20.25.21" type: "page-en" }
+  File { path: "about.sml" time: "2025.03.24 19.15.53" type: "page-en" }
+  File { path: "housing.sml" time: "2025.03.24 19.14.43" type: "page-en" }
+  File { path: "police.sml" time: "2025.03.24 19.19.52" type: "page-en" }
   File { path: "now.sml" time: "2025.03.15 06.31.33" type: "page-en" }
-  File { path: "gift.sml" time: "2025.03.14 15.41.40" type: "page-en" }
-  File { path: "whatswrong.sml" time: "2025.03.15 06.22.47" type: "page-en" }
+  File { path: "regnose.sml" time: "2025.03.24 19.21.11" type: "page-en" }
+  File { path: "gift.sml" time: "2025.03.24 20.27.22" type: "page-en" }
+  File { path: "act.sml" time: "2025.03.24 19.12.15" type: "page-en" }
+  File { path: "whatswrong.sml" time: "2025.03.24 19.06.40" type: "page-en" }
   File { path: "home.sml" time: "2025.03.15 06.22.38" type: "page-en" }
+  File { path: "dao.sml" time: "2025.03.24 19.13.24" type: "page-en" }
+  File { path: "vision.sml" time: "2025.03.24 20.27.57" type: "page-en" }
+  File { path: "hero.sml" time: "2025.03.24 20.25.28" type: "page-en" }
+  File { path: "howto.sml" time: "2025.03.24 20.02.30" type: "page-de" }
+  File { path: "about.sml" time: "2025.03.24 20.05.30" type: "page-de" }
+  File { path: "housing.sml" time: "2025.03.24 20.05.23" type: "page-de" }
+  File { path: "police.sml" time: "2025.03.24 20.03.13" type: "page-de" }
   File { path: "now.sml" time: "2025.03.15 06.33.30" type: "page-de" }
-  File { path: "gift.sml" time: "2025.03.15 06.33.30" type: "page-de" }
-  File { path: "whatswrong.sml" time: "2025.03.15 06.42.26" type: "page-de" }
-  File { path: "home.sml" time: "2025.03.15 06.33.30" type: "page-de" }
+  File { path: "regnose.sml" time: "2025.03.24 20.04.34" type: "page-de" }
+  File { path: "gift.sml" time: "2025.03.24 19.59.43" type: "page-de" }
+  File { path: "act.sml" time: "2025.03.24 20.04.17" type: "page-de" }
+  File { path: "whatswrong.sml" time: "2025.03.24 20.02.04" type: "page-de" }
+  File { path: "home.sml" time: "2025.03.24 20.00.29" type: "page-de" }
+  File { path: "dao.sml" time: "2025.03.24 20.05.15" type: "page-de" }
+  File { path: "vision.sml" time: "2025.03.24 20.06.16" type: "page-de" }
+  File { path: "hero.sml" time: "2025.03.24 20.03.36" type: "page-de" }
 
 
 

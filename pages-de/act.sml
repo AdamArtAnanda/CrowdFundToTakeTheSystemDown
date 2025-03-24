@@ -14,7 +14,7 @@ Page {
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Hero" link: "page:hero" weight: 1}
+            Button {label: "< Regnose" link: "page:regnose" weight: 1}
             Spacer {amount: 8}
             Button {label: "DAO >" link: "page:dao" weight: 1}
         }

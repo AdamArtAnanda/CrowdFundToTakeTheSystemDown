@@ -16,7 +16,7 @@ Page {
         Row {
             
             Spacer {amount: 8}
-            Button {label: "Gift >" link: "page:gift" weight: 1}
+            Button {label: "Geschenk >" link: "page:gift" weight: 1}
         }
     }
 }

@@ -10,7 +10,7 @@ Page {
 
         Spacer {amount: 16}
         Markdown {
-            part: "present.md"
+            part: "gift.md"
         }
         Spacer {amount: 8}
         Row {

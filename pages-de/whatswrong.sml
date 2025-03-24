@@ -16,7 +16,7 @@ Page {
         Row {
             Button {label: "< Vision" link: "page:vision" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Howto >" link: "page:howto" weight: 1}
+            Button {label: "Wie >" link: "page:howto" weight: 1}
         }
     }
 }

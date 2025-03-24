@@ -10,13 +10,13 @@ Page {
 
         Spacer {amount: 16}
         Markdown {
-            part: "present.md"
+            part: "gift.md"
         }
         Spacer {amount: 8}
         Row {
             Button {label: "< Home" link: "page:home" weight: 1}
             Spacer {amount: 8}
-            Button {label: "What's Wrong >" link: "page:whatswrong" weight: 1}
+            Button {label: "Vision >" link: "page:vision" weight: 1}
         }
     }
 }

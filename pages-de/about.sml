@@ -11,7 +11,7 @@ Page {
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Housing" link: "page:housing" weight: 1}
+            Button {label: "< Wohnraum" link: "page:housing" weight: 1}
             Spacer {amount: 8}
             Button {label: "< Home" link: "page:home" weight: 1}
         }

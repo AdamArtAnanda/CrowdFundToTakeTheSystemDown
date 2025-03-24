@@ -14,7 +14,7 @@ Page {
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Police" link: "page:police" weight: 1}
+            Button {label: "< Disobedience" link: "page:police" weight: 1}
             Spacer {amount: 8}
             Button {label: "Regnose >" link: "page:regnose" weight: 1}
         }

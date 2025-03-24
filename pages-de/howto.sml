@@ -14,9 +14,9 @@ Page {
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Whats wrong" link: "page:whatswrong" weight: 1}
+            Button {label: "< Was ist los" link: "page:whatswrong" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Police >" link: "page:police" weight: 1}
+            Button {label: "Ungehorsam >" link: "page:police" weight: 1}
         }
     }
 }

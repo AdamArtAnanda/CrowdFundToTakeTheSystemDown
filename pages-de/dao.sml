@@ -14,9 +14,9 @@ Page {
         }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Act" link: "page:act" weight: 1}
+            Button {label: "< Jetzt handeln" link: "page:act" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Housing >" link: "page:housing" weight: 1}
+            Button {label: "Wohnraum >" link: "page:housing" weight: 1}
         }
     }
 }
