@@ -38,6 +38,20 @@ App {
 		scrim: "#000000"
 	}
 // deployment start - don't edit here
-
+Deployment {
+File { path: "happy.png" time: "2025.03.14 11.53.17" type: "image" }
+  File { path: "dao.png" time: "2025.03.19 21.59.42" type: "image" }
+  File { path: "cover-en.png" time: "2025.03.19 21.07.07" type: "image" }
+  File { path: "magic_book.png" time: "2024.11.27 21.39.33" type: "image" }
+  File { path: "trap.png" time: "2025.03.19 22.12.37" type: "image" }
+  File { path: "max.png" time: "2025.03.19 22.01.48" type: "image" }
+  File { path: "prison.png" time: "2025.03.19 21.49.07" type: "image" }
+  File { path: "homeless.png" time: "2025.03.19 21.43.36" type: "image" }
+  File { path: "capitalism.png" time: "2025.03.19 21.34.20" type: "image" }
+  File { path: "loghouse.png" time: "2025.03.19 22.09.09" type: "image" }
+  File { path: "reading.png" time: "2025.03.19 21.55.38" type: "image" }
+  File { path: "obdachlos.png" time: "2025.03.19 21.39.34" type: "image" }
+  File { path: "cover-de.png" time: "2025.03.19 21.06.21" type: "image" }
+}
 // deployment end
 }
