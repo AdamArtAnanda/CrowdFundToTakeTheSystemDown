@@ -1,4 +1,3 @@
-![capitalism is dead](capitalism.png)
 # What’s Wrong with the System?
 
 ## The Symptoms – A World in Crisis

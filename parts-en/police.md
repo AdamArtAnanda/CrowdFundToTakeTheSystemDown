@@ -1,4 +1,3 @@
-![prison](prison.png)
 # The Power of Civil Disobedience – Why the State Can't Jail Us All  
 
 Many people fear that if they refuse to comply with the system—whether by stopping tax payments, rejecting unfair rules, or peacefully protesting—the state will respond with force.  

@@ -1,4 +1,3 @@
-![reading](reading.png)
 # Vom Lesen zum Handeln – Gemeinsam erschaffen wir die neue Wirtschaft  
 
 Bücher sind mächtig.  

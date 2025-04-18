@@ -1,4 +1,3 @@
-![max](max.png)
 # My Hero’s Journey – How I Left the System  
 
 Many people dream of breaking free.  

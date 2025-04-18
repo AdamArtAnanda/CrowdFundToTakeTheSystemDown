@@ -1,4 +1,3 @@
-![loghouse](loghouse.png)
 # The Housing DAO – Free Housing Without Rent or Bureaucracy  
 
 Housing is one of the biggest sources of dependence in today's system.  

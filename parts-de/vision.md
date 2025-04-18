@@ -1,5 +1,4 @@
-![obdachlos](homeless.png)
-## Ihre Vision
+# Ihre Vision
 
 Ich traf sie in **Barcelona**, im **Parc de la Ciutadella**.
 Sie erzählte mir, dass sie aus **Australien** kommt und schon seit vielen, vielen Jahren in diesem Park lebt.

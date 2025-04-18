@@ -1,4 +1,3 @@
-![max](max.png)
 # Meine Heldenreise – Wie ich aus dem System ausstieg  
 
 Viele Menschen träumen davon, auszubrechen.  

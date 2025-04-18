@@ -1,4 +1,3 @@
-![dao](dao.png)
 # Was ist eine DAO? – Die neue Art der Zusammenarbeit  
 
 Viele Menschen haben noch nie von einer **DAO** gehört.  

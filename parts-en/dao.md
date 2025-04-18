@@ -1,4 +1,3 @@
-![dao](dao.png)
 # What is a DAO? – A New Way to Work Together  
 
 Many people have never heard of a **DAO** before.  

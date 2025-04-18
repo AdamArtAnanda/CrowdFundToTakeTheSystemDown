@@ -1,7 +1,7 @@
 Page {
     title: "Crowdfund to Take the System Down"
     padding: "8"
-    scrollable: "true"
+    scrollable: true
     
     Column {
         padding: "8"

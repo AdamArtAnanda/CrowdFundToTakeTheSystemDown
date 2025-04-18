@@ -1,5 +1,4 @@
 # A gift for you
-![magic_book](magic_book.png)
 
 With this book, I don’t just want to share knowledge and insights—I want to **offer it to you as a gift**.  
 This work is released under a **Creative Commons license**, allowing you to use and share it **for all non-commercial purposes**—in the spirit of giving and free access to knowledge.  

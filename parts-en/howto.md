@@ -1,4 +1,3 @@
-![trap](trap.png)
 # The Path to Freedom – How We Escape the Trap  
 
 ## The Great Deception: Debts That Don’t Exist  

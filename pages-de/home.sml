@@ -1,13 +1,12 @@
 Page {
     title: "Crowdfund to Take the System Down"
     padding: "8"
-    scrollable: "true"
+    scrollable: true
     
     Column {
         padding: "8"
-        Image { src: "happy.png" }
+       
 
-        Spacer {amount: 16}
         Markdown {
             part: "home.md"
         }

@@ -1,7 +1,7 @@
 Page {
     title: "How To"
     padding: "8"
-    scrollable: "true"
+    scrollable: true
     
     Column {
         padding: "8"

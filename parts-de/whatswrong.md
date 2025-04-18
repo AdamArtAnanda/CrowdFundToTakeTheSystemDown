@@ -1,4 +1,3 @@
-![capitalism is dead](capitalism.png)
 # Was stimmt nicht mit dem System?
 
 ## Die Symptome – Eine Welt in der Krise

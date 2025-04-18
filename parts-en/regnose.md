@@ -1,4 +1,3 @@
-![happy people](happy.png)
 # Regnosis – Welcome to the New World  
 
 It is the year 2035.  

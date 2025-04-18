@@ -1,5 +1,4 @@
 # Ein Geschenk für Dich
-![magic_book](magic_book.png)
 
 Mit diesem Buch möchte ich nicht nur Wissen und Erkenntnisse teilen – ich möchte es dir **als Geschenk überreichen**.
 Dieses Werk steht unter einer **Creative-Commons-Lizenz**, die es dir erlaubt, es **für alle nicht-kommerziellen Zwecke** zu nutzen und weiterzugeben – im Geiste des Schenkens und des freien Zugangs zu Wissen.  
