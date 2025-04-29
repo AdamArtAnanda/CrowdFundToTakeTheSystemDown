@@ -90,54 +90,42 @@ App {
 
 // deployment start - don't edit here
     Deployment {
-        File { path: "howto.sml" time: "2025.04.18 16.39.33" type: "page-en" }
-        File { path: "about.sml" time: "2025.04.18 16.39.08" type: "page-en" }
-        File { path: "housing.sml" time: "2025.04.18 16.39.30" type: "page-en" }
-        File { path: "police.sml" time: "2025.04.18 16.39.36" type: "page-en" }
-        File { path: "regnose.sml" time: "2025.04.18 16.39.39" type: "page-en" }
-        File { path: "gift.sml" time: "2025.04.18 16.39.18" type: "page-en" }
-        File { path: "act.sml" time: "2025.04.18 16.39.11" type: "page-en" }
-        File { path: "whatswrong.sml" time: "2025.04.18 16.39.46" type: "page-en" }
-        File { path: "home.sml" time: "2025.04.18 16.39.26" type: "page-en" }
-        File { path: "dao.sml" time: "2025.04.18 16.39.15" type: "page-en" }
-        File { path: "vision.sml" time: "2025.04.18 16.39.43" type: "page-en" }
-        File { path: "hero.sml" time: "2025.04.18 16.39.21" type: "page-en" }
-        File { path: "howto.sml" time: "2025.04.18 16.38.35" type: "page-de" }
-        File { path: "about.sml" time: "2025.04.18 16.38.08" type: "page-de" }
-        File { path: "housing.sml" time: "2025.04.18 16.38.31" type: "page-de" }
-        File { path: "police.sml" time: "2025.04.18 16.38.39" type: "page-de" }
-        File { path: "regnose.sml" time: "2025.04.18 16.38.43" type: "page-de" }
-        File { path: "gift.sml" time: "2025.04.18 16.38.18" type: "page-de" }
-        File { path: "act.sml" time: "2025.04.18 16.38.12" type: "page-de" }
-        File { path: "whatswrong.sml" time: "2025.04.18 16.38.52" type: "page-de" }
-        File { path: "home.sml" time: "2025.04.18 16.38.27" type: "page-de" }
-        File { path: "dao.sml" time: "2025.04.18 16.38.15" type: "page-de" }
-        File { path: "vision.sml" time: "2025.04.18 16.38.47" type: "page-de" }
-        File { path: "hero.sml" time: "2025.04.18 16.38.23" type: "page-de" }
-        File { path: "gift.md" time: "2025.04.03 14.33.16" type: "part-en" }
-        File { path: "regnose.md" time: "2025.04.03 14.32.19" type: "part-en" }
-        File { path: "act.md" time: "2025.04.03 14.33.34" type: "part-en" }
-        File { path: "howto.md" time: "2025.04.03 14.32.40" type: "part-en" }
-        File { path: "hero.md" time: "2025.04.03 14.33.03" type: "part-en" }
-        File { path: "dao.md" time: "2025.04.03 14.33.25" type: "part-en" }
-        File { path: "whatswrong.md" time: "2025.04.03 14.32.09" type: "part-en" }
-        File { path: "home.md" time: "2025.03.19 21.15.17" type: "part-en" }
-        File { path: "housing.md" time: "2025.04.03 14.32.51" type: "part-en" }
-        File { path: "vision.md" time: "2025.04.03 14.30.50" type: "part-en" }
-        File { path: "police.md" time: "2025.04.03 14.32.32" type: "part-en" }
-        File { path: "about.md" time: "2025.03.19 21.14.24" type: "part-en" }
-        File { path: "gift.md" time: "2025.04.03 14.34.52" type: "part-de" }
-        File { path: "regnose.md" time: "2025.04.03 14.33.58" type: "part-de" }
-        File { path: "act.md" time: "2025.04.03 14.35.09" type: "part-de" }
-        File { path: "howto.md" time: "2025.04.03 14.34.11" type: "part-de" }
-        File { path: "hero.md" time: "2025.04.03 14.34.43" type: "part-de" }
-        File { path: "dao.md" time: "2025.04.03 14.35.01" type: "part-de" }
-        File { path: "whatswrong.md" time: "2025.04.03 14.33.45" type: "part-de" }
-        File { path: "home.md" time: "2025.03.19 21.15.01" type: "part-de" }
-        File { path: "housing.md" time: "2025.04.03 14.34.20" type: "part-de" }
-        File { path: "vision.md" time: "2025.04.05 18.01.17" type: "part-de" }
-        File { path: "police.md" time: "2025.04.03 14.34.04" type: "part-de" }
-        File { path: "about.md" time: "2025.03.19 21.13.55" type: "part-de" }
+        File { path: "howto.sml" time: "2025.04.29 13.45.44" type: "page" }
+        File { path: "about.sml" time: "2025.04.29 13.41.00" type: "page" }
+        File { path: "housing.sml" time: "2025.04.29 13.44.05" type: "page" }
+        File { path: "police.sml" time: "2025.04.29 13.54.41" type: "page" }
+        File { path: "regnose.sml" time: "2025.04.29 13.47.17" type: "page" }
+        File { path: "gift.sml" time: "2025.04.29 13.21.16" type: "page" }
+        File { path: "act.sml" time: "2025.04.29 13.32.32" type: "page" }
+        File { path: "whatswrong.sml" time: "2025.04.29 13.48.06" type: "page" }
+        File { path: "home.sml" time: "2025.04.29 13.43.50" type: "page" }
+        File { path: "dao.sml" time: "2025.04.29 13.40.10" type: "page" }
+        File { path: "vision.sml" time: "2025.04.29 13.47.57" type: "page" }
+        File { path: "hero.sml" time: "2025.04.29 13.42.53" type: "page" }
+        File { path: "home-en.md" time: "2025.03.19 21.15.17" type: "part" }
+        File { path: "gift-de.md" time: "2025.04.03 14.34.52" type: "part" }
+        File { path: "regnose-de.md" time: "2025.04.03 14.33.58" type: "part" }
+        File { path: "vision-en.md" time: "2025.04.03 14.30.50" type: "part" }
+        File { path: "police-de.md" time: "2025.04.03 14.34.04" type: "part" }
+        File { path: "hero-de.md" time: "2025.04.03 14.34.43" type: "part" }
+        File { path: "act-de.md" time: "2025.04.03 14.35.09" type: "part" }
+        File { path: "about-en.md" time: "2025.03.19 21.14.24" type: "part" }
+        File { path: "about-de.md" time: "2025.03.19 21.13.55" type: "part" }
+        File { path: "act-en.md" time: "2025.04.03 14.33.34" type: "part" }
+        File { path: "police-en.md" time: "2025.04.03 14.32.32" type: "part" }
+        File { path: "hero-en.md" time: "2025.04.03 14.33.03" type: "part" }
+        File { path: "vision-de.md" time: "2025.04.05 18.01.17" type: "part" }
+        File { path: "regnose-en.md" time: "2025.04.03 14.32.19" type: "part" }
+        File { path: "gift-en.md" time: "2025.04.03 14.33.16" type: "part" }
+        File { path: "home-de.md" time: "2025.03.19 21.15.01" type: "part" }
+        File { path: "housing-en.md" time: "2025.04.03 14.32.51" type: "part" }
+        File { path: "dao-en.md" time: "2025.04.03 14.33.25" type: "part" }
+        File { path: "whatswrong-en.md" time: "2025.04.03 14.32.09" type: "part" }
+        File { path: "howto-en.md" time: "2025.04.03 14.32.40" type: "part" }
+        File { path: "howto-de.md" time: "2025.04.03 14.34.11" type: "part" }
+        File { path: "whatswrong-de.md" time: "2025.04.03 14.33.45" type: "part" }
+        File { path: "housing-de.md" time: "2025.04.03 14.34.20" type: "part" }
+        File { path: "dao-de.md" time: "2025.04.03 14.35.01" type: "part" }
         File { path: "happy.png" time: "2025.03.14 11.53.17" type: "image" }
         File { path: "dao.png" time: "2025.03.19 21.59.42" type: "image" }
         File { path: "cover-en.png" time: "2025.03.19 21.07.07" type: "image" }
@@ -151,6 +139,8 @@ App {
         File { path: "reading.png" time: "2025.03.19 21.55.38" type: "image" }
         File { path: "obdachlos.png" time: "2025.03.19 21.39.34" type: "image" }
         File { path: "cover-de.png" time: "2025.03.19 21.06.21" type: "image" }
+        File { path: "Strings-de.sml" time: "2025.04.29 13.49.25" type: "translations" }
+        File { path: "Strings-en.sml" time: "2025.04.29 13.49.20" type: "translations" }
 
     }
 // deployment end
