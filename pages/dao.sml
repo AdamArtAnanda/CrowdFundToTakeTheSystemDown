@@ -9,14 +9,12 @@ Page {
         Image { src: "dao.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "dao.md"
-        }
+        Markdown {text: "part:dao"}
         Spacer {amount: 8}
         Row {
-            Button {label: "< Act" link: "page:act" weight: 1}
+            Button {label: "< string:actnow" link: "page:act" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Housing >" link: "page:housing" weight: 1}
+            Button {label: "string:housing >" link: "page:housing" weight: 1}
         }
     }
 }

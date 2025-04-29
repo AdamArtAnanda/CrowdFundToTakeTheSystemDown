@@ -9,14 +9,12 @@ Page {
         Image { src: "trap.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "howto.md"
-        }
+        Markdown {text: "part:howto"}
         Spacer {amount: 8}
         Row {
-            Button {label: "< Whats wrong" link: "page:whatswrong" weight: 1}
+            Button {label: "< string:whatswrong" link: "page:whatswrong" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Disobedience >" link: "page:police" weight: 1}
+            Button {label: "string:disobedience >" link: "page:police" weight: 1}
         }
     }
 }

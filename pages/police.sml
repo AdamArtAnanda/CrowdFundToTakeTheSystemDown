@@ -9,15 +9,13 @@ Page {
         Image { src: "prison.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "police.md"
-        }
+        Markdown {text: "part:police"}
         Spacer { weight: 1}
         
         Row {
-            Button {label: "< Wie" link: "page:howto" weight: 1}
+            Button {label: "< string:how" link: "page:howto" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Heldenreise >" link: "page:hero" weight: 1}
+            Button {label: "string:herojourney >" link: "page:hero" weight: 1}
         }
     }
 }

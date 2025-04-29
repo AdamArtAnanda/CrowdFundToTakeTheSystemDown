@@ -14,20 +14,17 @@ App {
         lang: "de"
         title: "Crowdfund to Take the System Down"
         creator: "Adam Art Ananda"
-        creatorLink: "https://books.crowdware.at"
+        creatorLink: "https://books.crowdware.info"
         license: "No license yet"
-        licenseLink: "http://emaple.com"
+        licenseLink: "http://example.com"
  
         
         Chapter {name: "Impressum" src: "home.sml"}
         Chapter {name: "Ein Geschenk für Dich" src: "gift.sml"}
-        Chapter {name: "Ihre Vision" src: "vision.sml" 
-            Section {name: "Obdachlos oder frei?" href: "obdachlos-oder-frei"}
-        }
+        Chapter {name: "Ihre Vision" src: "vision.sml" }
         Chapter {name: "Was stimmt nicht mit dem System?" src: "whatswrong.sml"}
         Chapter {name: "Der Weg in die Freiheit – Wie wir aus der Falle aussteigen" src: "howto.sml"}
         Chapter {name: "Die Macht des zivilen Ungehorsams – Warum der Staat uns nicht alle einsperren kann" src: "police.sml"}
-
         Chapter {name: "eine Heldenreise – Wie ich aus dem System ausstieg" src: "hero.sml"}
         Chapter {name: "Regnose – Willkommen in der neuen Welt" src: "regnose.sml"}
         Chapter {name: "Vom Lesen zum Handeln – Gemeinsam erschaffen wir die neue Wirtschaft" src: "act.sml"}
@@ -40,18 +37,16 @@ App {
         lang: "en"
         title: "Crowdfund to Take the System Down"
         creator: "Adam Art Ananda"
-        creatorLink: "https://books.crowdware.at"
+        creatorLink: "https://books.crowdware.info"
         license: "No license yet"
-        licenseLink: "http://emaple.com"
+        licenseLink: "http://example.com"
         
         Chapter {name: "Imprint" src: "home.sml"}
         Chapter {name: "A gift for you" src: "gift.sml"}
         Chapter {name: "Her Vision" src: "vision.sml"}
-
         Chapter {name: "What’s Wrong with the System?" src: "whatswrong.sml"}
         Chapter {name: "The Great Deception: Debts That Don’t Exist" src: "howto.sml"}
         Chapter {name: "The Power of Civil Disobedience – Why the State Can't Jail Us All" src: "police.sml"}
-
         Chapter {name: "My Hero’s Journey – How I Left the System" src: "hero.sml"}
         Chapter {name: "Regnosis – Welcome to the New World" src: "regnose.sml"}
         Chapter {name: "From Reading to Action – Together We Build the New Economy" src: "act.sml"}

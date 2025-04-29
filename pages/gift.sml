@@ -9,9 +9,7 @@ Page {
         Image { src: "magic_book.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "gift.md"
-        }
+        Markdown {text: "part:gift"}
         Spacer {amount: 8}
         Row {
             Button {label: "< Home" link: "page:home" weight: 1}

@@ -9,14 +9,12 @@ Page {
         Image { src: "reading.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "act.md"
-        }
+        Markdown {text: "part:act"}
         Spacer {amount: 8}
         Row {
-            Button {label: "< Regnose" link: "page:regnose" weight: 1}
+            Button {label: "< string:regnose" link: "page:regnose" weight: 1}
             Spacer {amount: 8}
-            Button {label: "DAO >" link: "page:dao" weight: 1}
+            Button {label: "> string:dao" link: "page:dao" weight: 1}
         }
     }
 }

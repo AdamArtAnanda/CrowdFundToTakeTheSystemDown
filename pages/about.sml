@@ -6,12 +6,10 @@ Page {
     Column {
         padding: "8"
 
-        Markdown {
-            part: "about.md"
-        }
+        Markdown { text: "part:about" }
         Spacer {amount: 8}
         Row {
-            Button {label: "< Wohnraum" link: "page:housing" weight: 1}
+            Button {label: "< string:housing" link: "page:housing" weight: 1}
             Spacer {amount: 8}
             Button {label: "< Home" link: "page:home" weight: 1}
         }

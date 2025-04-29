@@ -9,14 +9,12 @@ Page {
         Image { src: "loghouse.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "housing.md"
-        }
+        Markdown {text: "part:housing"}
         Spacer {amount: 8}
         Row {
             Button {label: "< DAO" link: "page:dao" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Über >" link: "page:about" weight: 1}
+            Button {label: "string:about >" link: "page:about" weight: 1}
         }
     }
 }

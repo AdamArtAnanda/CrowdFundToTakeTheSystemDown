@@ -9,15 +9,13 @@ Page {
         Image { src: "happy.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "regnose.md"
-        }
+        Markdown {text: "part:regnose"}
         Spacer { weight: 1}
         
         Row {
-            Button {label: "< Heldenreise" link: "page:hero" weight: 1}
+            Button {label: "< string:herojourney" link: "page:hero" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Jetzt handel >" link: "page:act" weight: 1}
+            Button {label: "string:actnow >" link: "page:act" weight: 1}
         }
     }
 }

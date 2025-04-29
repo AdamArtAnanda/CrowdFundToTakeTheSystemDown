@@ -9,14 +9,12 @@ Page {
         Image { src: "max.png" }
 
         Spacer {amount: 16}
-        Markdown {
-            part: "hero.md"
-        }
+        Markdown {text: "part:hero"}
         Spacer {amount: 8}
         Row {
-            Button {label: "< Disobedience" link: "page:police" weight: 1}
+            Button {label: "< string:disobedience" link: "page:police" weight: 1}
             Spacer {amount: 8}
-            Button {label: "Regnose >" link: "page:regnose" weight: 1}
+            Button {label: "string:regnose >" link: "page:regnose" weight: 1}
         }
     }
 }

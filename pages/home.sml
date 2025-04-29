@@ -5,18 +5,15 @@ Page {
     
     Column {
         padding: "8"
-        Image { src: "happy.png" }
+       
 
-        Spacer {amount: 16}
-        Markdown {
-            part: "home.md"
-        }
+        Markdown {text: "part:home"}
         Spacer { weight: 1}
         
         Row {
             
             Spacer {amount: 8}
-            Button {label: "Gift >" link: "page:gift" weight: 1}
+            Button {label: "string:gift >" link: "page:gift" weight: 1}
         }
     }
 }
